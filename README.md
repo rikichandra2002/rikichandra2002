@@ -47,145 +47,60 @@ ritwik@dev:~$ echo $FUN_FACT
 > "Every project is a chance to learn something new and create meaningful impact."
 
 ritwik@dev:~$ _
-```
 
-<br/>
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
+Languages
 
-**Languages**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
 
-<br/><br/>
 
-**Frontend**
-<br/>
+
+
+Frontend
+
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 
-<br/><br/>
 
-**Backend & Databases**
-<br/>
+
+
+Backend & Databases
+
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-<br/><br/>
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
 
-<br/><br/>
 
-**Tools & Cloud**
-<br/>
+AI / ML
+
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+
+
+
+Tools & Cloud
+
+
 <img src="https://skillicons.dev/icons?i=git,github,gcp,vercel,postman&theme=dark" />
 
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rikichandra2002">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
-<a href="https://github.com/rikichandra2002">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
-
-<sub>👆 Swap <code>YOUR_REPO_1</code> / <code>YOUR_REPO_2</code> for your actual repo names to pin your best work here</sub>
+🚀 Featured Projects
+<div align="center"><a href="https://github.com/rikichandra2002"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="48%"/> </a> <a href="https://github.com/rikichandra2002"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="48%"/> </a>
+<sub>👆 Replace <code>YOUR_REPO_1</code> and <code>YOUR_REPO_2</code> with your actual repository names</sub>
 
 </div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&theme=tokyonight&hide_border=true" width="49%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&theme=tokyo-night&hide_border=true" width="49%"/></div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rikichandra2002&theme=tokyonight&no-frame=true&row=1&column=7"/> </div>
+💭 Random Dev Wisdom
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div>
 <div align="center">
+💫 Thanks for stopping by!
+https://komarev.com/ghpvc/?username=rikichandra2002&style=for-the-badge&color=6366F1
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&theme=tokyo-night&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<sub>🔧 This animates your real contribution graph, but needs a one-time GitHub Action (`Platane/snk`) added to your profile repo — see the setup note at the bottom of this file.</sub>
-
-<br/>
-
-## 💭 Random Dev Wisdom
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo_night"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💫 Thanks for stopping by!
-
-![Profile Views](https://komarev.com/ghpvc/?username=rikichandra2002&style=for-the-badge&color=6366F1)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>⚙️ One-time setup: enabling the snake animation</b></summary>
-<br/>
-
-The snake section animates your real contribution graph, but it needs a small GitHub Action added to this profile repo (`rikichandra2002/rikichandra2002`):
-
-1. In your repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rikichandra2002
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Commit and push — the Action runs automatically and creates an `output` branch containing the SVG.
-3. The image link already in this README points at that branch, so once the Action runs once, the snake will appear.
-
-If you'd rather skip this, just delete the "Contribution Snake" section above.
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/></div>
