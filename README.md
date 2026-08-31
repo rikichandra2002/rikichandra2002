@@ -31,25 +31,22 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Ritwik Chandra
-role: AI & Machine Learning Engineer | Full-Stack Developer (MERN)
-certifications: SAP Certified
-focus: Scalable software, intelligent applications, open source
-currently_building:
-  - 🤖 AI Chatbot
-  - 🌎 Environment Monitoring Platform
-  - 🤟 Sign Language Detection System
-currently_learning:
-  - System Design
-  - Cloud Computing
-  - DevOps
-  - Advanced DSA
-open_to_collab:
-  - AI/ML projects
-  - MERN Stack apps
-  - Open Source contributions
-fun_fact: "Every project is a chance to learn something new and create meaningful impact."
+```bash
+ritwik@dev:~$ whoami
+> AI & Machine Learning Engineer | Full-Stack Developer (MERN) | SAP Certified
+
+ritwik@dev:~$ cat currently_building.txt
+> 🤖 AI Chatbot
+> 🌎 Environment Monitoring Platform
+> 🤟 Sign Language Detection System
+
+ritwik@dev:~$ cat currently_learning.txt
+> System Design • Cloud Computing • DevOps • Advanced DSA
+
+ritwik@dev:~$ echo $FUN_FACT
+> "Every project is a chance to learn something new and create meaningful impact."
+
+ritwik@dev:~$ _
 ```
 
 <br/>
@@ -60,42 +57,48 @@ fun_fact: "Every project is a chance to learn something new and create meaningfu
 
 **Languages**
 <br/>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
 <br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
 
 **Backend & Databases**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br/><br/>
 
 **AI / ML**
 <br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
+
+<br/><br/>
 
 **Tools & Cloud**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,gcp,vercel,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/rikichandra2002">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/rikichandra2002">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<sub>👆 Swap <code>YOUR_REPO_1</code> / <code>YOUR_REPO_2</code> for your actual repo names to pin your best work here</sub>
 
 </div>
 
@@ -115,10 +118,20 @@ fun_fact: "Every project is a chance to learn something new and create meaningfu
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rikichandra2002&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<sub>🔧 This animates your real contribution graph, but needs a one-time GitHub Action (`Platane/snk`) added to your profile repo — see the setup note at the bottom of this file.</sub>
+
+<br/>
+
+## 💭 Random Dev Wisdom
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo_night"/>
 </div>
 
 <br/>
@@ -132,3 +145,47 @@ fun_fact: "Every project is a chance to learn something new and create meaningfu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>⚙️ One-time setup: enabling the snake animation</b></summary>
+<br/>
+
+The snake section animates your real contribution graph, but it needs a small GitHub Action added to this profile repo (`rikichandra2002/rikichandra2002`):
+
+1. In your repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: generate snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rikichandra2002
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit and push — the Action runs automatically and creates an `output` branch containing the SVG.
+3. The image link already in this README points at that branch, so once the Action runs once, the snake will appear.
+
+If you'd rather skip this, just delete the "Contribution Snake" section above.
+
+</details>
