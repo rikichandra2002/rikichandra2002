@@ -1,86 +1,134 @@
-# 💫 Hi 👋, I'm Ritwik Chandra
-**AI & Machine Learning Engineer | Full-Stack Developer (MERN) | SAP Certified | Open Source Enthusiast**
-
-🚀 Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and modern Full-Stack technologies. I enjoy solving real-world problems through scalable software and continuously learning new technologies.
-
-- 🔭 **Currently Working On:** AI Chatbot, Environment Monitoring Platform, and Sign Language Detection System
-- 🌱 **Currently Learning:** System Design, Cloud Computing, DevOps, and Advanced DSA
-- 👯 **Looking to Collaborate On:** AI/ML, MERN Stack, Open Source, and Full-Stack Projects
-- 💬 **Ask Me About:** Java, React, Next.js, Node.js, Express.js, MongoDB, Python, AI/ML, and SAP
-- 📫 **Reach Me:** ritwikchandra8@gmail.com
-- ⚡ **Fun Fact:** Every project I build is an opportunity to learn something new and create meaningful impact.
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/oggy.03.riki)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwikchandra8@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Ritwik_2002_AIML/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ritwikchandra8)
-[![TakeUForward](https://img.shields.io/badge/TakeUForward-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)](https://takeuforward.org/profile/oggyriki)
-
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-
----
-
-# 🧠 Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/u/_Ritwik_2002_AIML/">
-<img src="https://leetcard.jacoblin.cool/_Ritwik_2002_AIML?theme=dark&font=Nunito&ext=contest" />
-</a>
-</p>
-
----
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Ritwik%20Chandra&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20(MERN)%20%7C%20SAP%20Certified&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://linkedin.com/in/ritwikchandra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ritwikchandra8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/oggy.03.riki">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/_Ritwik_2002_AIML/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/ritwikchandra8">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://takeuforward.org/profile/oggyriki">
+  <img src="https://img.shields.io/badge/TakeUForward-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+intelligent+apps+with+AI+%2F+ML+%F0%9F%A4%96;Full-Stack+Developer+%7C+MERN+%2B+Python;Currently+shipping%3A+AI+Chatbot+%26+Sign+Language+Detection;Always+learning+%E2%80%A2+Always+building+%F0%9F%9A%80"/>
+
 </div>
 
-# 📊 GitHub Stats
+<br/>
 
-![](https://github-readme-stats.shion.dev/api?username=rikichandra2002&theme=codeSTACKr&hide_border=false&include_all_commits=true)
+## 🧑‍💻 About Me
 
-![](https://streak-stats.demolab.com/?user=rikichandra2002&theme=codeSTACKr&hide_border=false)
+```yaml
+name: Ritwik Chandra
+role: AI & Machine Learning Engineer | Full-Stack Developer (MERN)
+certifications: SAP Certified
+focus: Scalable software, intelligent applications, open source
+currently_building:
+  - 🤖 AI Chatbot
+  - 🌎 Environment Monitoring Platform
+  - 🤟 Sign Language Detection System
+currently_learning:
+  - System Design
+  - Cloud Computing
+  - DevOps
+  - Advanced DSA
+open_to_collab:
+  - AI/ML projects
+  - MERN Stack apps
+  - Open Source contributions
+fun_fact: "Every project is a chance to learn something new and create meaningful impact."
+```
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rikichandra2002&theme=codeSTACKr&hide_border=false&layout=compact)
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## 📈 GitHub Contribution Graph
+<div align="center">
 
-[![Ritwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Languages**
+<br/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
----
+**Frontend**
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🔝 Top Contributed Repository
+**Backend & Databases**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](https://github-contributor-stats.vercel.app/api?username=rikichandra2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+**AI / ML**
+<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+**Tools & Cloud**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-## 💭 Random Dev Quote
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
----
+## 📊 GitHub Analytics
 
-![](https://komarev.com/ghpvc/?username=rikichandra2002&style=for-the-badge)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rikichandra2002&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💫 Thanks for stopping by!
+
+![Profile Views](https://komarev.com/ghpvc/?username=rikichandra2002&style=for-the-badge&color=6366F1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
