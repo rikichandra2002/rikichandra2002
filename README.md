@@ -1,129 +1,242 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Ritwik%20Chandra&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20(MERN)%20%7C%20SAP%20Certified&descAlignY=55&descSize=20" width="100%"/>
+# 👋 Hey, I'm Ritwik Chandra
 
-<a href="https://linkedin.com/in/ritwikchandra">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ritwikchandra8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/oggy.03.riki">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/_Ritwik_2002_AIML/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/profile/ritwikchandra8">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://takeuforward.org/profile/oggyriki">
-  <img src="https://img.shields.io/badge/TakeUForward-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+### AI/ML Engineer · Full-Stack Developer · SAP Certified
 
-<br/>
+<p>
+  <a href="https://linkedin.com/in/ritwikchandra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ritwikchandra8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rikichandra2002">
+    <img src="https://img.shields.io/badge/GitHub-rikichandra2002-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/_Ritwik_2002_AIML/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+intelligent+apps+with+AI+%2F+ML+%F0%9F%A4%96;Full-Stack+Developer+%7C+MERN+%2B+Python;Currently+building+AI-powered+applications;Always+learning+%E2%80%A2+Always+building+%F0%9F%9A%80"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rikichandra2002&style=flat-square&color=6366F1&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-```bash
-ritwik@dev:~$ whoami
-> AI & Machine Learning Engineer | Full-Stack Developer (MERN) | SAP Certified
+I'm an **AI/ML Engineer and Full-Stack Developer** focused on building practical applications that combine intelligent systems with modern web technologies.
 
-ritwik@dev:~$ cat currently_building.txt
-> 🤖 AI Chatbot
-> 🌎 Environment Monitoring Platform
-> 🤟 Sign Language Detection System
+I enjoy turning ideas into complete products — from designing the frontend and backend to integrating AI models, databases, authentication, and cloud services.
 
-ritwik@dev:~$ cat currently_learning.txt
-> System Design • Cloud Computing • DevOps • Advanced DSA
-
-ritwik@dev:~$ echo $FUN_FACT
-> "Every project is a chance to learn something new and create meaningful impact."
-
-ritwik@dev:~$ _
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖 AI / ML          Intelligent applications              │
+│   ⚡ Full Stack       MERN + Next.js                        │
+│   🧠 Problem Solving  DSA + Software Engineering            │
+│   ☁️ Cloud            Deployment & modern infrastructure    │
+│   SAP                SAP / ABAP Cloud                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+### Currently building
 
-## 🛠️ Tech Stack
+* 🤖 **Nexora AI** — AI-powered content creation platform
+* 🌱 **Environment & Jungle Monitoring Platform**
+* 🤟 **Sign Language Detection System**
+* 🧩 AI-powered developer projects using modern web stacks
 
-<div align="center">
+### Currently exploring
 
-### 💻 Languages
+`System Design` · `Cloud Computing` · `DevOps` · `Advanced DSA` · `Generative AI`
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark"/>
+---
 
-<br/><br/>
+## ⚡ Tech Stack
 
-### 🎨 Frontend
+### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript"/>
+</p>
 
-<br/><br/>
+### Frontend
 
-### ⚙️ Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+### Backend & Databases
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
 
-### 🤖 AI / ML
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
+</p>
 
-<br/><br/>
+### Tools & Platforms
 
-### ☁️ Tools & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,gcp"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,gcp,vercel,postman&theme=dark"/>
+---
 
-</div>
+# 🚀 Featured Projects
 
-<br/>
+<table>
+<tr>
 
-## 🚀 Featured Projects
+<td width="50%">
 
-<div align="center">
+### 🤖 Nexora AI
+
+An all-in-one AI productivity platform for content creation and intelligent tools.
+
+**Highlights**
+
+* AI article generation
+* Blog title generation
+* AI image generation
+* Background/object removal
+* Resume analysis
+* User authentication
+* Cloud image storage
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Clerk` `Gemini` `Cloudinary`
+
+<br>
 
 <a href="https://github.com/rikichandra2002">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rikichandra2002">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rikichandra2002&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="48%"/>
+</td>
+
+<td width="50%">
+
+### 🧠 Text-to-SQL AI
+
+An AI-powered application that converts natural-language questions into SQL queries.
+
+**Focus**
+
+* Natural language processing
+* SQL generation
+* AI integration
+* Database interaction
+* Full-stack architecture
+
+**Stack**
+
+`Python` `AI/ML` `SQL` `React` `Node.js`
+
+<br>
+
+<a href="https://github.com/rikichandra2002/text-to-sql-ai">
+<img src="https://img.shields.io/badge/View_Project-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
-> **Replace `YOUR_REPO_1` and `YOUR_REPO_2` with the names of your two strongest repositories.**
+</tr>
 
-<br/>
+<tr>
 
-## 📊 GitHub Analytics
+<td width="50%">
+
+### 🌱 Environment & Jungle Project
+
+A full-stack platform focused on environmental degradation and jungle development.
+
+**Features**
+
+* Environmental information
+* Interactive web interface
+* Full-stack architecture
+* Data-driven platform
+
+**Stack**
+
+`MongoDB` `Express` `React` `Node.js`
+
+<br>
+
+<a href="https://github.com/rikichandra2002/environment-jungle-project">
+<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤟 Sign Language Detection
+
+A computer-vision application for recognizing hand signs using machine learning.
+
+**Focus**
+
+* Computer vision
+* Hand landmark detection
+* Real-time prediction
+* Browser-based ML
+
+**Stack**
+
+`MediaPipe` `TensorFlow.js` `JavaScript`
+
+<br>
+
+<a href="https://github.com/rikichandra2002/Sign-Language-Detection">
+<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&hide_border=true&theme=transparent" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&theme=tokyo-night&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="42%"/>
 
 </div>
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&bg_color=00000000&color=6366F1&line=22D3EE&point=6366F1&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -131,38 +244,85 @@ ritwik@dev:~$ _
 
 </div>
 
-<br/>
+---
 
-## 💭 Random Dev Wisdom
+# 🎯 What I'm Working Toward
+
+```text
+AI Engineering
+      │
+      ├── Generative AI
+      ├── Machine Learning
+      ├── Computer Vision
+      └── AI-powered Products
+
+Software Engineering
+      │
+      ├── Full-Stack Development
+      ├── System Design
+      ├── Backend Architecture
+      └── Cloud & DevOps
+
+Continuous Growth
+      │
+      ├── DSA
+      ├── Open Source
+      ├── Production Projects
+      └── Learning by Building
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://linkedin.com/in/ritwikchandra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ritwikchandra8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/oggy.03.riki">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/_Ritwik_2002_AIML/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/ritwikchandra8">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://takeuforward.org/profile/oggyriki">
+<img src="https://img.shields.io/badge/TakeUForward-181717?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### 💫 Thanks for stopping by!
+### `Build → Break → Learn → Improve → Repeat`
 
-<img src="https://komarev.com/ghpvc/?username=rikichandra2002&style=for-the-badge&color=6366F1"/>
+<br>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=120&section=footer"/>
 
 </div>
 
-<br/>
+---
 
 <details>
-<summary><b>⚙️ One-time setup: Enable the contribution snake</b></summary>
+<summary><b>🐍 Enable GitHub Contribution Snake</b></summary>
 
-<br/>
+<br>
 
-Create the following file in your profile repository:
+Create:
 
 `.github/workflows/snake.yml`
 
@@ -199,8 +359,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then commit and push the workflow.
-
-GitHub Actions will generate the `output` branch containing the snake SVG, which is then displayed above.
+Commit and push the workflow. GitHub Actions will generate the `output` branch containing the contribution snake.
 
 </details>
