@@ -156,7 +156,7 @@ Computer-vision app for recognizing hand signs in real time.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikichandra2002&hide_border=true&theme=transparent" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rikichandra2002&hide_border=true&theme=transparent" width="49%"/>
 
 <br><br>
 
