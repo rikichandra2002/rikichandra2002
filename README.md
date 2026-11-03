@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,45:FDBA74,100:F97316&height=210&section=header&text=Ritwik%20Chandra&fontSize=48&fontColor=432818&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Full-Stack%20Development%20%7C%20SAP%20ABAP%20Cloud&descAlignY=57&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE066,50:FF8A00,100:EA580C&height=230&section=header&text=Ritwik%20Chandra&fontSize=50&fontColor=2B1608&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SAP%20ABAP%20Cloud&descAlignY=57&descSize=17"/>
 
 <br/>
 
@@ -29,7 +29,7 @@ I enjoy working across the entire development lifecycle — from designing inter
 - 📊 **Academic CGPA:** 8.45/10.
 - 🏅 **SAP Certified** — ABAP Cloud.
 - 💼 **Experience:** MERN Stack Intern at Euphoria.
-- 🚀 Currently building **Nexora AI** and exploring Agentic AI and Multi-Agent Systems.
+- 🚀 Currently building and exploring Agentic AI and Multi-Agent Systems.
 - 🧠 Interested in Generative AI, Machine Learning, RAG, System Design, and intelligent automation.
 - 📷 Outside technology: Photography, Theatre, and creative exploration.
 
@@ -168,25 +168,50 @@ A computer-vision application that recognizes hand signs using real-time hand la
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rikichandra2002&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=EA580C&text_color=78716C&rank_icon=github&include_all_commits=true"/>
+  <!-- GitHub Statistics -->
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=rikichandra2002&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF8A00&icon_color=FFB000&text_color=E6EDF3"
+  />
 
-<img height="175" src="https://streak-stats.demolab.com/?user=rikichandra2002&hide_border=true&background=00000000&ring=F97316&fire=EA580C&currStreakLabel=F97316&sideLabels=78716C&dates=A8A29E"/>
+  <!-- Contribution Streak -->
+  <img height="180"
+    src="https://streak-stats.demolab.com?user=rikichandra2002&theme=dark&hide_border=true&background=0D1117&ring=FF8A00&fire=FFB000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8A00&sideLabels=E6EDF3&dates=9CA3AF&timezone=Asia%2FKolkata"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=78716C&langs_count=8"/>
+  <!-- Most Used Languages -->
+  <img width="42%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rikichandra2002&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF8A00&text_color=E6EDF3"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&bg_color=00000000&color=F97316&line=EA580C&point=F59E0B&area=true&hide_border=true" width="100%"/>
+  <!-- Contribution Activity -->
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rikichandra2002&bg_color=0D1117&color=E6EDF3&line=FF8A00&point=FFB000&area=true&hide_border=true"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake.svg" width="100%"/>
+  <!-- Contribution Snake -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/rikichandra2002/rikichandra2002/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 
 </div>
-
----
 
 ## 🎯 Currently Exploring
 
